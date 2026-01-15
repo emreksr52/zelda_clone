@@ -22,30 +22,10 @@ This project is primarily a **learning exercise**, and the focus is on clean, un
 
 ---
 
-## Project Structure
-
-This repository contains my working files and experiments:
-
-- `main` / `project.godot` / `index`  
-  Main project entry point (engine-dependent)
-
-- `/src`  
-  Core gameplay systems such as player, enemies, combat, and world logic
-
-- `/assets`  
-  Temporary sprites, tilesets, and audio used during development
-
-- `/tools` (optional)  
-  Helper scripts and experiments created during the learning process
-
-(The structure may evolve as the project grows.)
-
----
-
 ## Tools
 
-- **Engine:** (PICO-8 / Godot / Unity — update as needed)
-- **Language:** Lua / GDScript / C#
+- **Engine:** PICO-8
+- **Language:** Lua
 - **Editor:** VS Code + engine editor
 
 ---
